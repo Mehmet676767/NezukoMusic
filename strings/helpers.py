@@ -28,7 +28,7 @@ ForcePlay Commands = playforce , vplayforce , cplayforce
 **v** stands for video play.
 **force** stands for force play.
 
-/play or /vplay or /cplay  - Bot will start playing your given query on voice chat or Stream live links on voice chats.
+/oynat or /voynat or /cplay  - Bot will start playing your given query on voice chat or Stream live links on voice chats.
 /playforce or /vplayforce or /cplayforce -  **Force Play** stops the current playing track on voice chat and starts playing the searched track instantly without disturbing/clearing queue.
 /channelplay [Chat username or id] or [Disable] - Connect channel to a group and stream music on channel's voice chat from your group.
 
@@ -36,7 +36,7 @@ ForcePlay Commands = playforce , vplayforce , cplayforce
 ✅**<u>Bot's Server Playlists:</u>**
 /playlist  - Check Your Saved Playlist On Servers.
 /deleteplaylist - Delete any saved music in your playlist
-/play  - Start playing Your Saved Playlist from Servers."""
+/oynat  - Start playing Your Saved Playlist from Servers."""
 
 
 HELP_3 = """✅<u>**Bot Commands:**</u>
